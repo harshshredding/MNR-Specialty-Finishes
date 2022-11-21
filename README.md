@@ -1,4 +1,4 @@
 # MNR-Specialty-Finishes
 Team:
-- Jeweliana Romero
-- Robert Romero
+- Jeweliana Romero : call xxx-xxx-xxxx
+- Robert Romero : call xxx-xxx-xxxx
